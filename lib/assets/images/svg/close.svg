@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 10 10">
+  <g id="cancel" transform="translate(0 -0.001)">
+    <g id="Group_99" data-name="Group 99" transform="translate(0 0.001)">
+      <g id="Group_98" data-name="Group 98" transform="translate(0 0)">
+        <path id="Path_77" data-name="Path 77" d="M5.552,5,9.885.668A.391.391,0,1,0,9.333.115L5,4.448.667.115A.391.391,0,1,0,.114.668L4.447,5,.114,9.334a.391.391,0,0,0,.552.552L5,5.553,9.333,9.886a.391.391,0,1,0,.552-.552Z" transform="translate(0 -0.001)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

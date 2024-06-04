@@ -1,0 +1,12 @@
+<svg id="home" xmlns="http://www.w3.org/2000/svg" width="22.538" height="20.091" viewBox="0 0 22.538 20.091">
+  <g id="Group_8" data-name="Group 8" transform="translate(0 0)">
+    <g id="Group_7" data-name="Group 7">
+      <path id="Path_23" data-name="Path 23" d="M22.3,35.733,11.615,27.911a.585.585,0,0,0-.692,0L.239,35.733a.586.586,0,0,0,.692.945l10.338-7.569,10.338,7.569a.586.586,0,0,0,.692-.945Z" transform="translate(0.001 -27.798)" fill="currentColor"/>
+    </g>
+  </g>
+  <g id="Group_10" data-name="Group 10" transform="translate(2.485 9.013)">
+    <g id="Group_9" data-name="Group 9">
+      <path id="Path_24" data-name="Path 24" d="M73.435,232.543a.586.586,0,0,0-.586.586v9.321H68.164v-5.088a2.928,2.928,0,0,0-5.856,0v5.088H57.623v-9.321a.586.586,0,0,0-1.171,0v9.907a.586.586,0,0,0,.586.586h5.856a.585.585,0,0,0,.583-.54.443.443,0,0,0,0-.046v-5.674a1.757,1.757,0,1,1,3.514,0v5.674a.429.429,0,0,0,0,.045.585.585,0,0,0,.583.541h5.856a.586.586,0,0,0,.586-.586v-9.907A.586.586,0,0,0,73.435,232.543Z" transform="translate(-56.452 -232.543)" fill="currentColor"/>
+    </g>
+  </g>
+</svg>
